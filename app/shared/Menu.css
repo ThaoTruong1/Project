@@ -1,0 +1,19 @@
+.menu a{
+    font-size: 18px;
+}
+.menu a:hover {
+    color: rgb(14, 240, 164);
+}
+.back-gr{
+    background-color: rgb(241, 248, 246);
+}
+.btn-signin{
+    border: 2px solid rgb(8, 199, 233);
+    font-size: 18px;
+    border-radius: 8px;
+    box-sizing: 30px;
+    background-color: rgb(9, 221, 236);
+}
+.btn-signin:hover{
+    color: rgb(10, 25, 245);
+}
